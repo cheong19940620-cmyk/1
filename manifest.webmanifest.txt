@@ -1,0 +1,23 @@
+{
+  "name": "Poker 籌碼計分器 App",
+  "short_name": "Poker 計分器",
+  "description": "支援 2-11 人的撲克籌碼買入、補碼、結算、儲存局數與匯出結果。",
+  "start_url": "./poker-chip-settlement.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f6f2",
+  "theme_color": "#01696f",
+  "lang": "zh-Hant",
+  "icons": [
+    {
+      "src": "./assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
